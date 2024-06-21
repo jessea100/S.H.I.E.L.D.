@@ -9,6 +9,8 @@ What are the long-term effects of reduced gravity environments on bone density, 
 
 ### Graph: 
 
+![IMG_6254](https://github.com/jessea100/S.H.I.E.L.D./assets/172406481/00b82f1f-d55d-4a78-8ce4-85cd826aa8db)
+
 **Graph Showing Red Risks for a Journey to the Red Planet: The Highest Priority Human Health Risks for a Mission to Mars**
 
 ### Abstract: 
