@@ -7,7 +7,7 @@ Space Health Integrity Ensuring Long-term Durability (S.H.I.E.L.D)
 ### Research Question: 
 What are the long-term effects of reduced gravity environments on bone density, muscle mass, and strength, and how can these be prevented or reversed?
 
-###Graph: 
+### Graph: 
 
 **Graph Showing Red Risks for a Journey to the Red Planet: The Highest Priority Human Health Risks for a Mission to Mars**
 
