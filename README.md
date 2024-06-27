@@ -24,6 +24,7 @@ The graph showing the hypothetical trend of venous thromboembolism (VTE) cases a
 
 ### Data Explanation: 
 X - Axis (Years): 1-5, 6-10, 11-15, 16-20, 21-25, 26-30
+
 Y - Axis (VTE Cases): 0, 1, 2, 3, 1, 4
 ### Abstract: 
 
