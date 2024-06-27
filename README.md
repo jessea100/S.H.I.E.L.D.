@@ -22,6 +22,9 @@ Understanding the specific mechanisms underlying VTE development in the space en
 
 The graph showing the hypothetical trend of venous thromboembolism (VTE) cases among astronauts over a 30-year period. This visualization is based on the provided hypothetical data, showing the number of cases increasing and then varying over time.
 
+### Data Explanation: 
+X - Axis (Years): 1-5, 6-10, 11-15, 16-20, 21-25, 26-30
+Y - Axis (VTE Cases): 0, 1, 2, 3, 1, 4
 ### Abstract: 
 
 Maintaining the health and safety of astronauts on prolonged missions requires an understanding of the dynamics of central venous pressure (CVP) and its relationship with venous thromboembolism (VTE) during spaceflight. Significant challenges to the human cardiovascular system are presented by the unique microgravity environment of space, including altered fluid distribution and decreased venous return, which may increase the risk of VTE. This study aims to identify subtle patterns and insights that conventional statistical methods might miss by utilizing exploratory data analysis (EDA) and visualization techniques on astronauts' CVP data. We will be able to recognize small but significant changes in CVP metrics over time and their correlation with the beginning of VTE events thanks to these techniques.
