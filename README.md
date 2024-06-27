@@ -16,9 +16,11 @@ Understanding the specific mechanisms underlying VTE development in the space en
 
 ### Graph: 
 
-![IMG_6254](https://github.com/jessea100/S.H.I.E.L.D./assets/172406481/00b82f1f-d55d-4a78-8ce4-85cd826aa8db)
+![28dad870-0542-46f4-b141-a0ece079c67c](https://github.com/jessea100/SPACE-VTE/assets/172406481/faabf282-2e30-41b6-946a-e4d751f22bfd)
 
-**Graph Showing Red Risks for a Journey to the Red Planet: The Highest Priority Human Health Risks for a Mission to Mars**
+**Hypothetical Trend of Venous Thromboembolism (VTE) Cases Among Astronauts Over 30 Years**
+
+The graph showing the hypothetical trend of venous thromboembolism (VTE) cases among astronauts over a 30-year period. This visualization is based on the provided hypothetical data, showing the number of cases increasing and then varying over time.
 
 ### Abstract: 
 
